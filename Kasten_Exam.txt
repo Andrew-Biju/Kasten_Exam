@@ -1,0 +1,34 @@
+Kasten by Veem
+
+
+Introduction
+
+Kaste  by veem is a suborganization of Veem.Kasten deals with Kuberenetes based programs .The Latest vesion of kasten is Kasten K10
+
+
+website                                :       www.kasten.io
+licence                                 :       The Licence for kasten is commercial and flexible
+Open Source/Propiatory      :        Propiatory
+Brief Description                  :        Kasten K10 is a  Kuberenetes based data storage project of Kasten a 
+                                                     Sub organisation of Veem
+
+
+Project Details
+
+Architecture
+Kasten K10 uses a API based architecture which helps users to access cloud data easily
+
+
+Key Features:
+
+K10 Data Managment : Kasten K10 provides data managment features with it.
+
+K10 security and protection: Kasten K10 provides security and protection for the data that are provided in the cloud system
+
+K10 data analysis:Kasen K10 datas are analysed with Kasten analysis
+
+Scalability:Kasten K10 is Scalable
+
+Flexibility: Kasten K10 is flexible according to the users need
+
+Current Usage : Kasten K10 is used by many known companies sauch as MiniO,Lenovo Orange etc
